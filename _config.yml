@@ -19,7 +19,7 @@ sidebar:
   -title: "Home"
     url: /README.md
   -title: "Coding Help"
-    #url: 
+    url: /docs/Getting-Started.md
   -title: "Physical Oceanography 101"
     #url: 
   -title: "Contact"
