@@ -2,7 +2,7 @@
 layout: page
 title: "Getting Started"
 permalink: /coding/
-
+id: getting-started
 ---
 
 # Getting Started
