@@ -4,6 +4,7 @@ author:
   name: Kylie Kinne
   email: kykinne@ucsd.edu
 description: A starting place for analyzing physical oceanography data
+logo: /assets/img/logo.png
 
 #Built Settings
 #theme: jekyll-theme-minimal
@@ -16,6 +17,10 @@ plugins:
 
 sidebar:
   -title: Home
+  url: index.html
   -title: Coding Help
+  url: about.html
   -title: Physical Oceanography 101
+  url: PO101.html
   -title: Contact
+  url: contact.html
