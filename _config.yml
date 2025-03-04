@@ -16,11 +16,11 @@ plugins:
 #google_analytics: [Your Google Analytics tracking ID]
 
 sidebar:
-  -title: Home
-  url: index.html
-  -title: Coding Help
-  url: about.html
-  -title: Physical Oceanography 101
-  url: PO101.html
-  -title: Contact
-  url: contact.html
+  -title: "Home"
+    url: /README.md
+  -title: "Coding Help"
+    #url: 
+  -title: "Physical Oceanography 101"
+    #url: 
+  -title: "Contact"
+    #url: 
