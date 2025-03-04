@@ -17,10 +17,10 @@ plugins:
 
 sidebar:
   -title: "Home"
-    url: /README.md
-  -title: "Coding Help"
-    url: /docs/Getting-Started.md
-  -title: "Physical Oceanography 101"
-    #url: 
-  -title: "Contact"
-    #url: 
+ #   url: /README.md
+ # -title: "Coding Help"
+#    url: /docs/Getting-Started.md
+#  -title: "Physical Oceanography 101"
+#    #url: 
+#  -title: "Contact"
+#    #url: 
