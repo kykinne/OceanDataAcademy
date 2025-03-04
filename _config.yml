@@ -16,4 +16,6 @@ plugins:
 #google_analytics: [Your Google Analytics tracking ID]
 
 sidebar:
-  - getting-started
+  - label: Code
+    children:
+      - getting-started
