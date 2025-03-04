@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Getting Started
+title: "Getting Started"
+permalink: /coding/
 
 ---
 
